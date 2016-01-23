@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "D7BA64291C502F9F00FFBD65"
-               BuildableName = "DevelopC"
-               BlueprintName = "DevelopC"
-               ReferencedContainer = "container:DevelopC.xcodeproj">
+               BlueprintIdentifier = "D7BA643E1C5039C700FFBD65"
+               BuildableName = "2. Vtoraya zadacha"
+               BlueprintName = "2. Vtoraya zadacha"
+               ReferencedContainer = "container:2. Vtoraya zadacha.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -32,10 +32,10 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D7BA64291C502F9F00FFBD65"
-            BuildableName = "DevelopC"
-            BlueprintName = "DevelopC"
-            ReferencedContainer = "container:DevelopC.xcodeproj">
+            BlueprintIdentifier = "D7BA643E1C5039C700FFBD65"
+            BuildableName = "2. Vtoraya zadacha"
+            BlueprintName = "2. Vtoraya zadacha"
+            ReferencedContainer = "container:2. Vtoraya zadacha.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -55,10 +55,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D7BA64291C502F9F00FFBD65"
-            BuildableName = "DevelopC"
-            BlueprintName = "DevelopC"
-            ReferencedContainer = "container:DevelopC.xcodeproj">
+            BlueprintIdentifier = "D7BA643E1C5039C700FFBD65"
+            BuildableName = "2. Vtoraya zadacha"
+            BlueprintName = "2. Vtoraya zadacha"
+            ReferencedContainer = "container:2. Vtoraya zadacha.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -74,10 +74,10 @@
          runnableDebuggingMode = "0">
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "D7BA64291C502F9F00FFBD65"
-            BuildableName = "DevelopC"
-            BlueprintName = "DevelopC"
-            ReferencedContainer = "container:DevelopC.xcodeproj">
+            BlueprintIdentifier = "D7BA643E1C5039C700FFBD65"
+            BuildableName = "2. Vtoraya zadacha"
+            BlueprintName = "2. Vtoraya zadacha"
+            ReferencedContainer = "container:2. Vtoraya zadacha.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
