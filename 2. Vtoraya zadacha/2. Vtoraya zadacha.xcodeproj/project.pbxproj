@@ -8,7 +8,6 @@
 
 /* Begin PBXBuildFile section */
 		D70903FF1C504ABD003A6B4C /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = D70903FE1C504ABD003A6B4C /* main.c */; };
-		D7BA64431C5039C700FFBD65 /* main_massive.c in Sources */ = {isa = PBXBuildFile; fileRef = D7BA64421C5039C700FFBD65 /* main_massive.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -26,7 +25,6 @@
 /* Begin PBXFileReference section */
 		D70903FE1C504ABD003A6B4C /* main.c */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; usesTabs = 1; };
 		D7BA643F1C5039C700FFBD65 /* 2. Vtoraya zadacha */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "2. Vtoraya zadacha"; sourceTree = BUILT_PRODUCTS_DIR; };
-		D7BA64421C5039C700FFBD65 /* main_massive.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main_massive.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,7 +58,6 @@
 			isa = PBXGroup;
 			children = (
 				D70903FE1C504ABD003A6B4C /* main.c */,
-				D7BA64421C5039C700FFBD65 /* main_massive.c */,
 			);
 			path = "2. Vtoraya zadacha";
 			sourceTree = "<group>";
@@ -121,7 +118,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D7BA64431C5039C700FFBD65 /* main_massive.c in Sources */,
 				D70903FF1C504ABD003A6B4C /* main.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
